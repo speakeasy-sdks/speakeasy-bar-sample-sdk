@@ -1,6 +1,4 @@
 <!-- Start SDK Example Usage -->
-
-
 ```go
 package main
 
@@ -8,6 +6,7 @@ import (
 	"context"
 	speakeasybarsamplesdk "github.com/speakeasy-sdks/speakeasy-bar-sample-sdk"
 	"log"
+	"net/http"
 )
 
 func main() {
