@@ -1,12 +1,12 @@
 lockVersion: 2.0.0
 id: b90625be-5c90-4922-8b05-4e321bdd4e5d
 management:
-  docChecksum: 21c25ca8a734b4fb704e98d966524ee0
+  docChecksum: aa6977d96a8cc744e4588f1cbcefdde3
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.225.2
-  releaseVersion: 0.3.1
-  configChecksum: d07aed848cd260d041c47b4ef370af4f
+  generationVersion: 2.230.3
+  releaseVersion: 0.3.2
+  configChecksum: aba790203063b316f12c057676629c1c
   repoURL: https://github.com/speakeasy-sdks/speakeasy-bar-sample-sdk.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/speakeasy-bar-sample-sdk
