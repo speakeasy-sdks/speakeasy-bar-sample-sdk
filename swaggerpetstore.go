@@ -116,8 +116,8 @@ func New(opts ...SDKOption) *SwaggerPetstore {
 			Language:          "go",
 			OpenAPIDocVersion: "1.0.0",
 			SDKVersion:        "0.3.3",
-			GenVersion:        "2.234.3",
-			UserAgent:         "speakeasy-sdk/go 0.3.3 2.234.3 1.0.0 github.com/speakeasy-sdks/speakeasy-bar-sample-sdk",
+			GenVersion:        "2.237.2",
+			UserAgent:         "speakeasy-sdk/go 0.3.3 2.237.2 1.0.0 github.com/speakeasy-sdks/speakeasy-bar-sample-sdk",
 		},
 	}
 	for _, opt := range opts {
