@@ -4,22 +4,21 @@ management:
   docChecksum: aa6977d96a8cc744e4588f1cbcefdde3
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.258.2
-  releaseVersion: 0.5.0
-  configChecksum: 096d8f4ed59f68ebd50339cd1196960a
+  generationVersion: 2.263.3
+  releaseVersion: 0.5.1
+  configChecksum: e53f5b672ed4beecb73c0487d2a37101
   repoURL: https://github.com/speakeasy-sdks/speakeasy-bar-sample-sdk.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/speakeasy-bar-sample-sdk
   published: true
 features:
   go:
-    core: 3.4.0
+    core: 3.4.1
     globalServerURLs: 2.82.1
 generatedFiles:
   - pets.go
   - swaggerpetstore.go
   - go.mod
-  - go.sum
   - pkg/models/sdkerrors/sdkerror.go
   - pkg/types/bigint.go
   - pkg/types/date.go
