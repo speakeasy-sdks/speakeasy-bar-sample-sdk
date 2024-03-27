@@ -3,17 +3,17 @@ id: b90625be-5c90-4922-8b05-4e321bdd4e5d
 management:
   docChecksum: aa6977d96a8cc744e4588f1cbcefdde3
   docVersion: 1.0.0
-  speakeasyVersion: 1.207.1
-  generationVersion: 2.280.6
-  releaseVersion: 0.6.1
-  configChecksum: 76f0ce7f11ee6d0504b359fab90f4202
+  speakeasyVersion: 1.227.0
+  generationVersion: 2.291.0
+  releaseVersion: 0.6.2
+  configChecksum: 300c64f8359f08c96f3a282367f2865f
   repoURL: https://github.com/speakeasy-sdks/speakeasy-bar-sample-sdk.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/speakeasy-bar-sample-sdk
   published: true
 features:
   go:
-    core: 3.4.4
+    core: 3.4.5
     globalServerURLs: 2.82.2
     responseFormat: 0.1.0
 generatedFiles:
